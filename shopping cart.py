@@ -1,8 +1,8 @@
 """
 Author: Daniel Momoh
 Student Number: 041114358
-Date: 2025-05-27
-
+Date: 2025-05-25
+Description:
 This program simulates a simple shopping cart.
 Users can add items, specify quantities, and see the total cost.
 The program uses exception handling to manage invalid inputs.
